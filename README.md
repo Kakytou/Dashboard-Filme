@@ -20,3 +20,8 @@ O propósito deste projeto é demonstrar um fluxo completo de **extração, tran
 - **Requests** - Requisições HTTP à API da OMDb  
 - **Pandas** - Estruturação e manipulação dos dados em DataFrame
 - **Power BI** - Visualização e análise interativa dos dados
+
+##Dashboard
+
+<img width="1332" height="750" alt="image" src="https://github.com/user-attachments/assets/b43a08dd-ecd6-4356-935e-9b7daedcd661" />
+
