@@ -25,5 +25,6 @@ O propósito deste projeto é demonstrar um fluxo completo de **extração, tran
 
 ## Dashboard
 
-<img width="1332" height="750" alt="image" src="https://github.com/user-attachments/assets/b43a08dd-ecd6-4356-935e-9b7daedcd661" />
+<img width="1325" height="742" alt="image" src="https://github.com/user-attachments/assets/acfcbbd8-6db2-4e58-bdd8-bccad9192674" />
+
 
